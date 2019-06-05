@@ -1,0 +1,38 @@
+.ico{
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+.goo{
+    display: inline;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.user{
+    border-radius: 20px;
+    padding: 8px;
+}
+label{
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .heading{
+      margin-top: 100px;
+      text-align: right;
+      direction: rtl;
+  }
+.colored-text{
+    display: inline;
+    color:#0000FF;
+}
+.footer{
+    display: inline;
+    margin-bottom: 20px;
+    padding: 10px;
+}
